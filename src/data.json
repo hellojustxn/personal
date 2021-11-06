@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "type": "shortStory",
+      "header": "Justin is a **/software engineer**, **/aspiring designer**, and a **/teacher** with a passion for exploring the intersection of computational systems and social interaction.",
+      "detail": "This is my **/experience**, the school I went to and projects I’ve worked on. laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla"
+    },
+    {
+      "type": "stats",
+      "header": "Education",
+      "detail": [
+        {
+          "company": "University of California, Santa Cruz",
+          "position": "",
+          "startDate": "Project Manager",
+          "endDate": "Project Manager",
+          "description": "Bachelors in Computer Science."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "header": "Experience",
+      "detail": [
+        {
+          "company": "Tech4Good",
+          "position": "Project Manager",
+          "startDate": "Project Manager",
+          "endDate": "Project Manager",
+          "description": "description"
+        },
+        {
+          "company": "Tech4Good",
+          "position": "Research Assistant",
+          "startDate": "Project Manager",
+          "endDate": "Project Manager",
+          "description": "description"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "header": "Certifications",
+      "detail": [
+        {
+          "company": "AWS",
+          "position": "SysOps Administrator Associate",
+          "startDate": "Project Manager",
+          "endDate": "Project Manager",
+          "description": "description"
+        },
+        {
+          "company": "AWS",
+          "position": "Solutions Architect Associate",
+          "startDate": "Project Manager",
+          "endDate": "Project Manager",
+          "description": "description"
+        },
+        {
+          "company": "AWS",
+          "position": "Cloud Practitioner",
+          "startDate": "Project Manager",
+          "endDate": "Project Manager",
+          "description": "description"
+        },
+        {
+          "company": "Aviatrix",
+          "position": "Multi-Cloud Network Associate",
+          "startDate": "Sep 2020",
+          "endDate": "",
+          "description": "description"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "header": "Projects",
+      "detail": [
+        {
+          "company": "Relate",
+          "position": "Project Manager",
+          "startDate": "Sep 2021",
+          "endDate": "Dec 2021",
+          "description": "Team bonding"
+        },
+        {
+          "company": "Gratitude",
+          "position": "Project Manager",
+          "startDate": "Project Manager",
+          "endDate": "Project Manager",
+          "description": "Express your appreciation in the form of digital cards."
+        },
+        {
+          "company": "JungleApp.cc",
+          "position": "",
+          "startDate": "Project Manager",
+          "endDate": "Project Manager",
+          "description": "Express your appreciation in the form of digital cards."
+        }
+      ]
+    },
+    {
+      "type": "shortStory",
+      "header": "Interests",
+      "detail": "This is my experience, the school I went to and projects I’ve worked on. laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla"
+    }
+  ]
+}

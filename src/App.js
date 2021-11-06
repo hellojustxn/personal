@@ -1,23 +1,23 @@
-import logo from './logo.svg';
 import './App.css';
+import { Footer } from './components/Footer';
+import { Navbar } from './components/Navbar';
+import { ResumeSection } from './components/ResumeSection';
+import { ShortStory } from './components/ShortStory';
+import { data } from './data.json';
 
 function App() {
+
+  const resume = data.map((entry) => {
+    return entry.type === "stats" ? <ResumeSection data={entry} /> : <ShortStory data={entry} />
+  })
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="bg-black font-montserrat flex justify-center">
+      <div className="mx-5 sm:mx-32 mt-4 sm:mt-10 text-white ">
+        <Navbar />
+        {resume}
+        <Footer />
+      </div>
     </div>
   );
 }

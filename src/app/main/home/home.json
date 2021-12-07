@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "type": "headline",
+      "header": "Software engineer with a focus in full-stack development, human-computer interactions, and cloud computing.",
+      "detail": ["Beyond my passions in exploring the intersection of computational systems and social interaction, other areas of interest are in machine learning and building for the Blockchain."]
+    },
+    {
+      "type": "list",
+      "header": "currently working on...",
+      "detail": [
+        "🎊 completing my undergraduate degree in computer science at **[uc santa cruz](https://engineering.ucsc.edu/)**, class of 2021 ",
+        "💪 leading teams at **[tech4good](https://tech4good.soe.ucsc.edu/#/people)** and building supportive **[online communites](https://discord.gg/zPqvrFeMAf)**",
+        "🌐 creating **[dapps](https://ethereum.org/en/dapps/#what-are-dapps)** and **[smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/)** using react.js, redux observable, and solidity++",
+        "📚 studying for the **[aws developer associate](https://acloudguru.com/course/aws-certified-developer-associate)** certification",
+        "☕️ brewing the perfect **[moka pot coffee](https://www.youtube.com/watch?v=eH1Jnfkuzig)**"
+      ]
+    }
+  ]
+}

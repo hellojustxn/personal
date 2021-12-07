@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "type": "headline",
+      "header": "About me",
+      "detail": [
+        "Beyond my passions in exploring the intersection of computational systems and social interaction, other areas of interest are in machine learning and building for the Blockchain."
+      ]
+    },
+    {
+      "type": "list",
+      "header": "currently",
+      "detail": [
+        "🎊 completing my undergraduate degree in Computer Science at **[UC Santa Cruz](https://engineering.ucsc.edu/)**, Class of 2021 ",
+        "💪 leading teams at **[tech4good](https://tech4good.soe.ucsc.edu/#/people)**",
+        "🌐 building **[dapps](https://ethereum.org/en/dapps/#what-are-dapps)** and **[Smart Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)** using React.JS, ReduxObservable, and Solidity++",
+        "📚 studying for the **[aws developer associate](https://acloudguru.com/course/aws-certified-developer-associate)** certification",
+        "☕️ brewing the perfect **[moka pot coffee](https://www.youtube.com/watch?v=eH1Jnfkuzig)**"
+      ]
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "type": "shortStory",
-      "header": "Justin is a **/software engineer**, **/aspiring designer**, and a **/teacher** with a passion for exploring the intersection of computational systems and social interaction.",
-      "detail": "This is my **/experience**, the school I went to and projects I’ve worked on. laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla"
+      "type": "headline",
+      "header": "Resume",
+      "detail": ["Download a copy here"]
     },
     {
       "type": "stats",
@@ -14,7 +14,7 @@
           "position": "",
           "startDate": "Project Manager",
           "endDate": "Project Manager",
-          "description": "Bachelors in Computer Science."
+          "description": "Bachelors in Computer Science. More programming projects, less Patron."
         }
       ]
     },
@@ -43,21 +43,21 @@
       "header": "Certifications",
       "detail": [
         {
-          "company": "AWS",
+          "company": "Amazon Web Services",
           "position": "SysOps Administrator Associate",
           "startDate": "Project Manager",
           "endDate": "Project Manager",
           "description": "description"
         },
         {
-          "company": "AWS",
+          "company": "Amazon Web Services",
           "position": "Solutions Architect Associate",
           "startDate": "Project Manager",
           "endDate": "Project Manager",
           "description": "description"
         },
         {
-          "company": "AWS",
+          "company": "Amazon Web Services",
           "position": "Cloud Practitioner",
           "startDate": "Project Manager",
           "endDate": "Project Manager",
@@ -79,30 +79,71 @@
         {
           "company": "Relate",
           "position": "Project Manager",
-          "startDate": "Sep 2021",
-          "endDate": "Dec 2021",
-          "description": "Team bonding"
+          "startDate": "",
+          "endDate": "",
+          "description": "Team bonding",
+          "skills": ""
         },
         {
           "company": "Gratitude",
-          "position": "Project Manager",
-          "startDate": "Project Manager",
-          "endDate": "Project Manager",
-          "description": "Express your appreciation in the form of digital cards."
+          "position": "Front End Developer",
+          "startDate": "",
+          "endDate": "",
+          "description": "Express your appreciation in the form of digital cards.",
+          "skills": ""
         },
         {
           "company": "JungleApp.cc",
-          "position": "",
+          "position": "Full-Stack Developer",
           "startDate": "Project Manager",
           "endDate": "Project Manager",
-          "description": "Express your appreciation in the form of digital cards."
+          "description": "Connect streamers and viewers with real time notes.",
+          "skills": ""
         }
       ]
     },
     {
-      "type": "shortStory",
-      "header": "Interests",
-      "detail": "This is my experience, the school I went to and projects I’ve worked on. laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla"
+      "type": "timeline",
+      "header": "Timeline",
+      "detail": "This is my experience, the school I went to and projects I’ve worked on. laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla",
+      "events": [
+        {
+          "name": "First pull request",
+          "description": "Expo",
+          "date": {
+            "year": "2020",
+            "month": "4",
+            "day": "12"
+          }
+        },
+        {
+          "name": "Second pull request",
+          "description": "Expo",
+          "date": {
+            "year": "2020",
+            "month": "4",
+            "day": "12"
+          }
+        },
+        {
+          "name": "Third pull request",
+          "description": "Expo",
+          "date": {
+            "year": "2020",
+            "month": "4",
+            "day": "12"
+          }
+        },
+        {
+          "name": "Fourth pull request",
+          "description": "Expo",
+          "date": {
+            "year": "2020",
+            "month": "4",
+            "day": "12"
+          }
+        }
+      ]
     }
   ]
 }

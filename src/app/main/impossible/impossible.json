@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "type": "headline",
+      "header": "Impossible list",
+      "detail": [
+        "Pretty much just a bucket list."
+      ]
+    },
+    {
+      "type": "list",
+      "header": "Life Goals",
+      "detail": [
+        "🎊 completing my undergraduate degree in computer science at **[uc santa cruz](https://engineering.ucsc.edu/)**, class of 2021 ",
+        "💪 leading teams at **[tech4good](https://tech4good.soe.ucsc.edu/#/people)** and building supportive **[online communites](https://discord.gg/zPqvrFeMAf)**",
+        "🌐 creating **[dapps](https://ethereum.org/en/dapps/#what-are-dapps)** and **[smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/)** using react.js, redux observable, and solidity++",
+        "📚 studying for the **[aws developer associate](https://acloudguru.com/course/aws-certified-developer-associate)** certification",
+        "☕️ brewing the perfect **[moka pot coffee](https://www.youtube.com/watch?v=eH1Jnfkuzig)**"
+      ]
+    },
+    {
+      "type": "list",
+      "header": "Professional Goals",
+      "detail": [
+        "🎊 completing my undergraduate degree in computer science at **[uc santa cruz](https://engineering.ucsc.edu/)**, class of 2021 ",
+        "💪 leading teams at **[tech4good](https://tech4good.soe.ucsc.edu/#/people)** and building supportive **[online communites](https://discord.gg/zPqvrFeMAf)**",
+        "🌐 creating **[dapps](https://ethereum.org/en/dapps/#what-are-dapps)** and **[smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/)** using react.js, redux observable, and solidity++",
+        "📚 studying for the **[aws developer associate](https://acloudguru.com/course/aws-certified-developer-associate)** certification",
+        "☕️ brewing the perfect **[moka pot coffee](https://www.youtube.com/watch?v=eH1Jnfkuzig)**"
+      ]
+    }
+  ]
+}

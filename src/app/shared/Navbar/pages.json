@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "cv": {
+        "hidden": 1,
+        "url": "cv"
+      }
+    },
+    {
+      "medium": {
+        "hidden": 0,
+        "url": "https://blog.justxn.com/"
+      }
+    },
+    {
+      "github": {
+        "hidden": 0,
+        "url": "https://github.com/justxn"
+      }
+    },
+    {
+      "impossible list": {
+        "hidden": 1,
+        "url": "impossible"
+      }
+    }
+  ]
+}

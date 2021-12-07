@@ -1,6 +1,6 @@
 import { Section } from "../../shared/Section.component";
 import { Headline } from "../../shared/Headline.component";
-import { data } from "./About.json";
+import { data } from "./about.json";
 import { List } from "../../shared/List.component";
 
 const About = () => {

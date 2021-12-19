@@ -10,7 +10,7 @@ function App() {
       <div className="bg-black font-montserrat flex justify-center">
         <div className="mx-5 sm:mx-32  text-white min-h-screen w-full flex flex-col max-w-9xl">
           <Navbar />
-          <div className=" flex-1">
+          <div className="flex-1">
             <Router />
           </div>
           <Footer />

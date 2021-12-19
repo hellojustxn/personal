@@ -4,8 +4,6 @@ export const Section = ({data}) => {
       <div className="text-xl sm:text-2xl font-light font-monteserrat border-b-2 border-divider pb-5 ">
         {data["header"]}
       </div>
-
-
       {data.detail.map( entry => {
         return (
           <div className="flex mt-16 ml-2">

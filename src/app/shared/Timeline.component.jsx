@@ -27,7 +27,7 @@ export const Timeline = ({ data }) => {
       reverse = "flex-row-reverse";
     }
     return (
-      <div className={`flex ${eventHeight} ${reverse}`}>
+      <div className={`flex ${eventHeight} ${reverse}`} key={index}>
         <div>
           <div className="mx-5">
             {month[event.date.month - 1]}, {event.date.year}

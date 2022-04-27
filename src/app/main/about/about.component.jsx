@@ -4,7 +4,7 @@ import { about_data } from "./about.json";
 import { List } from "../../shared/List.component";
 
 const About = () => {
-  const About = about_data.map((entry) => {
+  const About = about_data.map((entry,) => {
     switch (entry.type) {
       case "stats":
         return <Section data={entry} />;

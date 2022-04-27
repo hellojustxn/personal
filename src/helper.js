@@ -2,11 +2,11 @@
 // semibold and colored
 export const emphasize = (text, color) => {
   return (
-    <p> {text.split("**").map((word) => {
-      console.log(word)
+    <div> {text.split("**").map((word, index) => {
+      // console.log(word)
       if (word[0] === "/") {
         return (
-          <p className={`inline font-semibold ${color}`}>
+          <p className={`inline font-semibold ${color}`} key={index}>
             {word.replace("/", "")}
           </p>
         );
@@ -16,13 +16,13 @@ export const emphasize = (text, color) => {
         const description = word.match(regex)[1]
         const url = word.match(regex)[2]
         return (
-          <a href={`${url}`} className={`inline border-b-2 py-1 leading-9 rounded-sm text-purple-500 ${color}`}>
+          <a href={`${url}`} className={`inline border-b-2 py-1 leading-9 rounded-sm text-purple-500 ${color}`} key={index}>
             {description}
           </a>
         );
       } 
-      return <p className="inline">{word}</p>;
+      return <p className="inline" key={index}>{word}</p>;
     })}
-    </p>
+    </div>
   )
 }

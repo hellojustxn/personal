@@ -1,6 +1,5 @@
 import { Section } from "../../shared/Section.component";
 import { Headline } from "../../shared/Headline.component";
-import { Timeline } from "../../shared/Timeline.component";
 import { data } from "./resume.json";
 
 const Resume = () => {

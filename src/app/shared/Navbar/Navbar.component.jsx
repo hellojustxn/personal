@@ -2,7 +2,7 @@ import { pages } from './Pages.component';
 export const Navbar = ({drawer, handleDrawer}) => {
   
   return (
-    <div className="mx-2 sm:mx-0 border-divider border-b-2 ">
+    <div className="mx-2 mt-2 sm:mx-0 border-divider border-b-2 ">
 
       <div className="relative flex justify-between items-center ">
         <div>

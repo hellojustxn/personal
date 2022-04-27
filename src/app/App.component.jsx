@@ -3,7 +3,7 @@ import { BrowserRouter } from "react-router-dom";
 import { Footer } from "./shared/Footer.component";
 import { Navbar } from "./shared/Navbar/Navbar.component";
 import { Router } from "./Router";
-import { useState } from "react/cjs/react.development";
+import { useState } from "react";
 import Sidebar from "./shared/Sidebar.component";
 
 function App() {

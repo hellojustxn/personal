@@ -15,7 +15,7 @@ function App() {
 
   return (
     <BrowserRouter>
-      <Sidebar showSidebar={drawer}/>
+      <Sidebar showSidebar={drawer} />
       <div className="bg-black font-montserrat flex justify-center">
         <div className="mx-5 sm:mx-32 text-white min-h-screen w-full flex flex-col max-w-9xl">
           <Navbar handleDrawer={handleDrawer}/>
